@@ -1,3 +1,5 @@
+## VIT Hack 2020 GlobalCert PS Winner Project 🥇
+
 # Cert It!
 
 Cert It! is a web based and android based app that aims to provide and generate certificates over a range of many templates that can be chosen by the user. The user can enter his or her details
